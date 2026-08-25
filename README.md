@@ -1,183 +1,246 @@
 <div align="center">
 
-<img src="./banner-v4.svg" width="100%" alt="Abinaya P — React + Java Developer"/>
+# 👋 Hi, I'm Abinaya
+
+### Full-Stack Developer · React + Java
+
+**Building clean, practical and responsive digital experiences.**
 
 <br>
 
-<a href="https://abinayapandurangan.netlify.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-2563EB?style=for-the-badge&labelColor=111827" alt="LinkedIn"></a>
-<a href="https://github.com/Abi1274"><img src="https://img.shields.io/badge/🐙%20GITHUB-111827?style=for-the-badge&labelColor=111827" alt="GitHub"></a>
+<a href="https://abinayapandurangan.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-A47CFF?style=for-the-badge">
+</a>
 
-</div>
+<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<br>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-## 👋 A LITTLE ABOUT ME
-
-I'm **Abinaya P.**, a **React + Java Developer** who enjoys turning real-world problems into useful digital products.
-
-I like working across the stack — creating clean interfaces on the frontend and building reliable APIs and database-driven features on the backend.
-
-**I care about:**  
-🎨 thoughtful UI & UX · 🧩 solving problems · 🚀 building useful things · 🌱 continuous learning
-
-</td>
-
-<td width="40%" valign="top">
-
-### CURRENTLY LEARNING
-
-```text
-React
-Advanced Java
-Spring Boot
-System Design
-DSA
-UI / UX
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## ⚡ TECH STACK
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,mysql,mongodb,git,github,html,css&perline=11" alt="React TypeScript Java Spring MySQL MongoDB Git GitHub HTML CSS">
+<a href="https://github.com/Abi1274">
+<img src="https://img.shields.io/badge/GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <br><br>
 
-`React` · `TypeScript` · `Java` · `Spring Boot` · `MySQL` · `REST APIs` · `Git`
+<img src="https://komarev.com/ghpvc/?username=Abi1274&label=Profile%20Views&color=A47CFF&style=flat">
 
 </div>
 
-<br>
+---
 
-## 🚀 FEATURED WORK
+# 👩‍💻 About Me
+
+I'm **Abinaya**, a Full-Stack Developer interested in building practical web
+applications and digital experiences.
+
+I enjoy working across both **frontend and backend development**, turning
+requirements and ideas into working products.
+
+My main development areas include:
+
+- ⚛️ React frontend development
+- ☕ Java backend development
+- 🌱 Spring Boot
+- 🔗 REST API integration
+- 🗄️ MySQL databases
+- 🎨 Responsive UI development
+- 🔧 Git & GitHub
+- 🐛 Debugging and improving existing applications
+
+I'm also starting my journey into **freelance development**, where I can
+work directly with clients to build websites and web applications.
+
+---
+
+# 🚀 What I Can Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏦 KUBER — Treasury Management
+### 🌐 Business Websites
 
-**React · Java · REST APIs · MySQL**
+Professional and responsive websites for:
 
-Enterprise treasury management platform involving financial workflows, master modules, APIs and business-focused UI.
-
-**→ [View project](https://github.com/Abi1274/technocrats)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI PPE Monitoring
-
-**YOLOv8 · Python · Flask · MySQL**
-
-Computer-vision based safety system designed for PPE detection and real-time monitoring.
-
-**→ [View project](https://github.com/Abi1274/AI-Powered-PPE-Monitoring-and-Radiation-Safety-System)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📦 Inventory Management
-
-**Java · Spring Boot · React · MySQL**
-
-Full-stack application for managing products, inventory and business operations.
-
-**→ [View project](https://github.com/Abi1274/Edubridge_Inventory-Management-System)**
+- Small businesses
+- Personal brands
+- Startups
+- Services
+- Landing pages
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 💡 More Experiments
+### ⚛️ Web Applications
 
-I also keep smaller projects and experiments on GitHub while learning new concepts and improving my development skills.
+Interactive applications using:
 
-**→ [Explore all repositories](https://github.com/Abi1274?tab=repositories)**
+- React
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛠️ Improve Existing Apps
+
+I can also help with:
+
+- UI improvements
+- Bug fixing
+- Validation
+- API integration
+- New features
+- Responsive issues
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+# ⭐ Featured Client Project
+
+## FitCashPro
+
+### 🟢 Real Client Project
+
+**FitCashPro** is a real client website that I built independently based on
+the client's requirements.
+
+🌐 **Live Website:**  
+https://fitcashpro.com/
+
+### My Role
+
+**Full Website Development**
+
+I handled the website development from the client's requirements through
+the completed website.
+
+### What this project represents
+
+This project gave me experience beyond personal and academic projects.
+
+It involved:
+
+- Understanding client requirements
+- Translating requirements into a working website
+- Developing the complete website
+- Making changes based on client feedback
+- Refining the final product
+- Delivering a finished website
+
+### Why it matters
+
+This was an important step in my development journey because it allowed me
+to work on a **real project for a real client**.
 
 <div align="center">
 
-## 🧠 HOW I BUILD
+<a href="https://fitcashpro.com/">
 
-**OBSERVE** → **UNDERSTAND** → **DESIGN** → **BUILD** → **IMPROVE**
+<img src="https://img.shields.io/badge/🌐_Visit_FitCashPro-A47CFF?style=for-the-badge">
 
-<sub>I don't just want the feature to work — I want to understand the problem behind it and make the experience better.</sub>
+</a>
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+# 💻 Other Projects
 
-## 🌱 RIGHT NOW
+## 🏦 Treasury Management System
 
-- ⚛️ Deepening React & component architecture
-- ☕ Improving Java & Spring Boot
-- 🏗️ Learning system design
-- 🧠 Practicing DSA & problem solving
-- 🎨 Exploring UI/UX and product thinking
+An enterprise-style financial management application.
 
-</td>
+### Technologies
 
-<td width="50%" valign="top">
+`React` `Java` `Spring Boot` `MySQL`
 
-## 💻 MY DEVELOPER MINDSET
+---
 
-```text
-Learn something
-      ↓
-Build something
-      ↓
-Break something
-      ↓
-Understand it
-      ↓
-Make it better
-```
+## 🤖 AI PPE Monitoring
 
-</td>
-</tr>
-</table>
+A computer vision project focused on monitoring personal protective
+equipment using AI.
 
-<br>
+### Technologies
+
+`Python` `YOLOv8` `OpenCV` `Flask`
+
+---
+
+## 📦 Inventory Management System
+
+A full-stack application designed around inventory management workflows.
+
+### Technologies
+
+`Java` `Spring Boot` `React` `MySQL`
+
+---
+
+# 🧰 Tech Stack
 
 <div align="center">
 
-## 🌐 LET'S CONNECT
+## Frontend
 
-If you're building something interesting, I'd love to hear about it.
-
-<br>
-
-<a href="https://abinayapandurangan.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827" alt="Portfolio"></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-2563EB?style=for-the-badge&labelColor=111827" alt="LinkedIn"></a>
+<img src="https://skillicons.dev/icons?i=react,js,html,css">
 
 <br><br>
 
-<sub>Code. Build. Improve. Repeat. 🚀</sub>
+## Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring">
+
+<br><br>
+
+## Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode">
 
 </div>
+
+---
+
+# 🧠 My Development Approach
+
+I believe good development is not only about writing code.
+
+It's about understanding the **problem behind the requirement**.
+
+```text
+                   YOUR IDEA
+                       │
+                       ▼
+              ┌────────────────┐
+              │   UNDERSTAND   │
+              │ Requirements   │
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │      PLAN      │
+              │ Pages / Features│
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │      BUILD     │
+              │ Code / Test    │
+              └───────┬────────┘
+                      │
+                      ▼
+              ┌────────────────┐
+              │    DELIVER     │
+              │ Review / Polish│
+              └───────┬────────┘
+                      │
+                      ▼
+                  YOUR PRODUCT
