@@ -1,20 +1,12 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Abinaya P - Developer"/>
+<img src="./banner-v4.svg" width="100%" alt="Abinaya P — React + Java Developer"/>
 
-<br><br>
+<br>
 
-<a href="https://abinayapandurangan.netlify.app/"><img src="./portfolio-button.svg" width="220" alt="Visit Portfolio"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="./linkedin-button.svg" width="220" alt="LinkedIn"/></a>
-
-<br><br>
-
-</div>
-
-<div align="center">
-
-<img src="./divider.svg" width="92%" alt="divider"/>
+<a href="https://abinayapandurangan.netlify.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-2563EB?style=for-the-badge&labelColor=111827" alt="LinkedIn"></a>
+<a href="https://github.com/Abi1274"><img src="https://img.shields.io/badge/🐙%20GITHUB-111827?style=for-the-badge&labelColor=111827" alt="GitHub"></a>
 
 </div>
 
@@ -22,29 +14,31 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-## 👋 HELLO, I'M ABINAYA
+## 👋 A LITTLE ABOUT ME
 
-**React + Java Developer**
+I'm **Abinaya P.**, a **React + Java Developer** who enjoys turning real-world problems into useful digital products.
 
-I build web applications that connect a clean user experience with reliable backend systems.
+I like working across the stack — creating clean interfaces on the frontend and building reliable APIs and database-driven features on the backend.
 
-I enjoy taking a problem, understanding how it works, designing a simple experience, and turning it into working software.
-
-### `What I like building`
-
-⚛️ React interfaces  
-☕ Java & Spring Boot APIs  
-🗄️ Database-driven applications  
-🔗 REST API integrations  
-🎨 UI/UX focused experiences  
+**I care about:**  
+🎨 thoughtful UI & UX · 🧩 solving problems · 🚀 building useful things · 🌱 continuous learning
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
-<img src="./profile-card.svg" width="100%" alt="Profile snapshot"/>
+### CURRENTLY LEARNING
+
+```text
+React
+Advanced Java
+Spring Boot
+System Design
+DSA
+UI / UX
+```
 
 </td>
 </tr>
@@ -56,39 +50,65 @@ I enjoy taking a problem, understanding how it works, designing a simple experie
 
 ## ⚡ TECH STACK
 
-<img src="./tech-stack.svg" width="92%" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,mysql,mongodb,git,github,html,css&perline=11" alt="React TypeScript Java Spring MySQL MongoDB Git GitHub HTML CSS">
+
+<br><br>
+
+`React` · `TypeScript` · `Java` · `Spring Boot` · `MySQL` · `REST APIs` · `Git`
 
 </div>
 
 <br>
 
-<div align="center">
-
-## 🚀 THINGS I'VE BUILT
-
-</div>
+## 🚀 FEATURED WORK
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<a href="https://github.com/Abi1274/technocrats">
-<img src="./project-kuber.svg" width="100%" alt="Kuber project"/>
-</a>
+### 🏦 KUBER — Treasury Management
 
-</td>
-<td width="33%" valign="top" align="center">
+**React · Java · REST APIs · MySQL**
 
-<a href="https://github.com/Abi1274/AI-Powered-PPE-Monitoring-and-Radiation-Safety-System">
-<img src="./project-ai.svg" width="100%" alt="AI PPE project"/>
-</a>
+Enterprise treasury management platform involving financial workflows, master modules, APIs and business-focused UI.
+
+**→ [View project](https://github.com/Abi1274/technocrats)**
 
 </td>
-<td width="33%" valign="top" align="center">
 
-<a href="https://github.com/Abi1274/Edubridge_Inventory-Management-System">
-<img src="./project-inventory.svg" width="100%" alt="Inventory project"/>
-</a>
+<td width="50%" valign="top">
+
+### 🤖 AI PPE Monitoring
+
+**YOLOv8 · Python · Flask · MySQL**
+
+Computer-vision based safety system designed for PPE detection and real-time monitoring.
+
+**→ [View project](https://github.com/Abi1274/AI-Powered-PPE-Monitoring-and-Radiation-Safety-System)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Inventory Management
+
+**Java · Spring Boot · React · MySQL**
+
+Full-stack application for managing products, inventory and business operations.
+
+**→ [View project](https://github.com/Abi1274/Edubridge_Inventory-Management-System)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 More Experiments
+
+I also keep smaller projects and experiments on GitHub while learning new concepts and improving my development skills.
+
+**→ [Explore all repositories](https://github.com/Abi1274?tab=repositories)**
 
 </td>
 </tr>
@@ -98,7 +118,11 @@ I enjoy taking a problem, understanding how it works, designing a simple experie
 
 <div align="center">
 
-<img src="./workflow.svg" width="92%" alt="My development workflow"/>
+## 🧠 HOW I BUILD
+
+**OBSERVE** → **UNDERSTAND** → **DESIGN** → **BUILD** → **IMPROVE**
+
+<sub>I don't just want the feature to work — I want to understand the problem behind it and make the experience better.</sub>
 
 </div>
 
@@ -108,26 +132,31 @@ I enjoy taking a problem, understanding how it works, designing a simple experie
 <tr>
 <td width="50%" valign="top">
 
-## 🌱 CURRENTLY LEARNING
+## 🌱 RIGHT NOW
 
-- Advanced React
-- Component architecture
-- Java & Spring Boot
-- DSA & problem solving
-- System design
-- UI/UX & product thinking
+- ⚛️ Deepening React & component architecture
+- ☕ Improving Java & Spring Boot
+- 🏗️ Learning system design
+- 🧠 Practicing DSA & problem solving
+- 🎨 Exploring UI/UX and product thinking
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎯 MY APPROACH
+## 💻 MY DEVELOPER MINDSET
 
-> **Observe → Understand → Design → Build → Improve**
-
-I don't want to just make a feature work.
-
-I want to understand **why it exists**, make it easier to use, and keep improving it.
+```text
+Learn something
+      ↓
+Build something
+      ↓
+Break something
+      ↓
+Understand it
+      ↓
+Make it better
+```
 
 </td>
 </tr>
@@ -137,28 +166,18 @@ I want to understand **why it exists**, make it easier to use, and keep improvin
 
 <div align="center">
 
-<img src="./github-section.svg" width="92%" alt="GitHub"/>
+## 🌐 LET'S CONNECT
 
-<br><br>
-
-<a href="https://github.com/Abi1274?tab=repositories"><img src="./repositories-button.svg" width="250" alt="View repositories"/></a>
-
-</div>
+If you're building something interesting, I'd love to hear about it.
 
 <br>
 
-<div align="center">
-
-<img src="./connect.svg" width="92%" alt="Let's connect"/>
-
-<br><br>
-
-<a href="https://abinayapandurangan.netlify.app/"><img src="./portfolio-button.svg" width="220" alt="Portfolio"/></a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="./linkedin-button.svg" width="220" alt="LinkedIn"/></a>
+<a href="https://abinayapandurangan.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827" alt="Portfolio"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-2563EB?style=for-the-badge&labelColor=111827" alt="LinkedIn"></a>
 
 <br><br>
 
-<img src="./footer.svg" width="100%" alt="Footer"/>
+<sub>Code. Build. Improve. Repeat. 🚀</sub>
 
 </div>
