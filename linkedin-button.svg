@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#4F46E5"/></linearGradient></defs>
+<rect width="220" height="48" rx="10" fill="url(#b)"/>
+<rect x="1" y="1" width="218" height="46" rx="9" fill="none" stroke="#FFFFFF" stroke-opacity=".2"/>
+<text x="110.0" y="30" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700" letter-spacing="1" fill="#FFFFFF">💼  CONNECT ON LINKEDIN</text>
+</svg>

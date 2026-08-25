@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#050816"/><stop offset="55%" stop-color="#17112F"/><stop offset="100%" stop-color="#06202D"/>
+</linearGradient>
+<linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#A855F7"/><stop offset="50%" stop-color="#6366F1"/><stop offset="100%" stop-color="#22D3EE"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="205" rx="24" fill="url(#bg)"/>
+<path d="M0 35 H1200" stroke="#FFFFFF" stroke-opacity=".035"/>
+<path d="M0 70 H1200" stroke="#FFFFFF" stroke-opacity=".025"/>
+<rect x="0" y="201" width="1200" height="4" fill="url(#neon)"/>
+<text x="600" y="58" text-anchor="middle" font-family="Arial" font-size="25" font-weight="700" fill="#FFFFFF">GITHUB • BUILDING IN PUBLIC</text><text x="600" y="92" text-anchor="middle" font-family="Arial" font-size="13" fill="#94A3B8">Projects, experiments and everything I'm learning along the way.</text><g transform="translate(210 112)"><rect width="220" height="55" rx="12" fill="#111827" stroke="#334155"/><text x="110" y="24" text-anchor="middle" font-family="monospace" font-size="10" fill="#C084FC">PUBLIC REPOSITORIES</text><text x="110" y="45" text-anchor="middle" font-family="Arial" font-size="12" fill="#FFFFFF">6 projects &amp; counting</text></g><g transform="translate(490 112)"><rect width="220" height="55" rx="12" fill="#111827" stroke="#334155"/><text x="110" y="24" text-anchor="middle" font-family="monospace" font-size="10" fill="#22D3EE">FOCUS</text><text x="110" y="45" text-anchor="middle" font-family="Arial" font-size="12" fill="#FFFFFF">Build • Learn • Improve</text></g><g transform="translate(770 112)"><rect width="220" height="55" rx="12" fill="#111827" stroke="#334155"/><text x="110" y="24" text-anchor="middle" font-family="monospace" font-size="10" fill="#A7F3D0">NEXT</text><text x="110" y="45" text-anchor="middle" font-family="Arial" font-size="12" fill="#FFFFFF">More ideas →</text></g>
+</svg>

@@ -1,266 +1,164 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="Abinaya P - Software Developer"/>
+<img src="./banner.svg" width="100%" alt="Abinaya P - Developer"/>
 
-<br/>
+<br><br>
 
-<a href="https://abinayapandurangan.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-2563EB?style=for-the-badge&labelColor=0B1020" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/Abi1274" target="_blank">
-<img src="https://img.shields.io/badge/%F0%9F%90%99%20GITHUB-111827?style=for-the-badge&labelColor=0B1020" alt="GitHub"/>
-</a>
+<a href="https://abinayapandurangan.netlify.app/"><img src="./portfolio-button.svg" width="220" alt="Visit Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="./linkedin-button.svg" width="220" alt="LinkedIn"/></a>
+
+<br><br>
 
 </div>
-
-<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=2" width="92%"/>
-
-CODE   BUILD   IMPROVE   REPEAT 🚀
+<img src="./divider.svg" width="92%" alt="divider"/>
 
 </div>
 
+<br>
+
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-👩‍💻 ABOUT ME
+## 👋 HELLO, I'M ABINAYA
 
-I'm Abinaya P., a B.Tech Information Technology graduate and React + Java Developer.
+**React + Java Developer**
 
-I enjoy turning real-world problems into practical digital solutions — from polished frontend experiences to Java APIs, database integration and enterprise workflows.
+I build web applications that connect a clean user experience with reliable backend systems.
 
-✦ I enjoy building
+I enjoy taking a problem, understanding how it works, designing a simple experience, and turning it into working software.
 
-⚛️ Modern React interfaces
+### `What I like building`
 
-☕ Java & Spring Boot applications
-
-🔗 REST APIs and database integrations
-
-🎨 Clean UI/UX experiences
-
-🧠 Practical solutions to real problems
+⚛️ React interfaces  
+☕ Java & Spring Boot APIs  
+🗄️ Database-driven applications  
+🔗 REST API integrations  
+🎨 UI/UX focused experiences  
 
 </td>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-⚡ QUICK SNAPSHOT
-
-
-
-
-
-💻 Role
-
-React + Java Developer
-
-🎯 Focus
-
-Frontend + Backend
-
-⚛️ Frontend
-
-React / TypeScript
-
-☕ Backend
-
-Java / Spring Boot
-
-🗄️ Database
-
-MySQL / MongoDB
-
-🧠 Learning
-
-DSA / System Design
-
-🎨 Interest
-
-UI/UX / Product Thinking
+<img src="./profile-card.svg" width="100%" alt="Profile snapshot"/>
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-🧩 MY TECH UNIVERSE
+## ⚡ TECH STACK
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,java,spring,mysql,mongodb,git,github,html,css&perline=6" alt="Technology stack"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=0B1020"/>
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="./tech-stack.svg" width="92%" alt="Tech stack"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-🚀 SELECTED WORK
+## 🚀 THINGS I'VE BUILT
 
 </div>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-🏦 KUBER
-
-Treasury Management
-
-React Java REST APIs MySQL
-
-Enterprise treasury workflows, master modules, APIs and business-focused UI.
+<a href="https://github.com/Abi1274/technocrats">
+<img src="./project-kuber.svg" width="100%" alt="Kuber project"/>
+</a>
 
 </td>
+<td width="33%" valign="top" align="center">
 
-<td width="33%" valign="top">
-
-🤖 AI PPE
-
-Safety Monitoring
-
-YOLOv8 Python Flask MySQL
-
-Computer-vision based PPE detection and real-time safety monitoring.
+<a href="https://github.com/Abi1274/AI-Powered-PPE-Monitoring-and-Radiation-Safety-System">
+<img src="./project-ai.svg" width="100%" alt="AI PPE project"/>
+</a>
 
 </td>
+<td width="33%" valign="top" align="center">
 
-<td width="33%" valign="top">
-
-📦 INVENTORY
-
-Management System
-
-Java Spring Boot React MySQL
-
-Full-stack inventory management for products, stock and business operations.
+<a href="https://github.com/Abi1274/Edubridge_Inventory-Management-System">
+<img src="./project-inventory.svg" width="100%" alt="Inventory project"/>
+</a>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 <div align="center">
 
-🧠 MY BUILDING PROCESS
-
-<br/>
-
-<table>
-<tr>
-<td align="center">👀<br/><b>OBSERVE</b></td>
-<td>→</td>
-<td align="center">🔎<br/><b>UNDERSTAND</b></td>
-<td>→</td>
-<td align="center">🎨<br/><b>DESIGN</b></td>
-<td>→</td>
-<td align="center">💻<br/><b>BUILD</b></td>
-<td>→</td>
-<td align="center">✨<br/><b>IMPROVE</b></td>
-</tr>
-</table>
-
-<br/>
-
-<blockquote>
-<b>Don't just build features. Build solutions.</b>
-</blockquote>
+<img src="./workflow.svg" width="92%" alt="My development workflow"/>
 
 </div>
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🌱 CURRENTLY LEARNING
+## 🌱 CURRENTLY LEARNING
 
-⚛️ Advanced React & component architecture
-
-☕ Advanced Java & Spring Boot
-
-🏗️ System design fundamentals
-
-🧠 DSA & problem solving
-
-🎨 UI/UX & creative product design
+- Advanced React
+- Component architecture
+- Java & Spring Boot
+- DSA & problem solving
+- System design
+- UI/UX & product thinking
 
 </td>
 
 <td width="50%" valign="top">
 
-🎯 MY DIRECTION
+## 🎯 MY APPROACH
 
-Clean UI
-   +
-Reliable APIs
-   +
-Useful products
-   +
-Better UX
-   ↓
-Software people enjoy using
+> **Observe → Understand → Design → Build → Improve**
+
+I don't want to just make a feature work.
+
+I want to understand **why it exists**, make it easier to use, and keep improving it.
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
 
-📈 GITHUB
+<img src="./github-section.svg" width="92%" alt="GitHub"/>
 
-<br/>
+<br><br>
 
-<a href="https://github.com/Abi1274?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20MY%20REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Repositories"/>
-</a>
-&nbsp;
-<a href="https://github.com/Abi1274?tab=overview">
-<img src="https://img.shields.io/badge/VIEW%20MY%20PROFILE-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub profile"/>
-</a>
-
-<br/><br/>
-
-<sub>Your GitHub contribution graph and activity are shown automatically on your profile.</sub>
+<a href="https://github.com/Abi1274?tab=repositories"><img src="./repositories-button.svg" width="250" alt="View repositories"/></a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-🌐 LET'S CONNECT
+<img src="./connect.svg" width="92%" alt="Let's connect"/>
 
-<br/>
+<br><br>
 
-<a href="https://abinayapandurangan.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EXPLORE%20MY%20WORK-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Explore portfolio"/>
-</a>
+<a href="https://abinayapandurangan.netlify.app/"><img src="./portfolio-button.svg" width="220" alt="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/"><img src="./linkedin-button.svg" width="220" alt="LinkedIn"/></a>
 
-<a href="https://www.linkedin.com/in/abinaya-pandurangan-6b2a22262/" target="_blank">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-LET'S%20CONNECT-2563EB?style=for-the-badge&labelColor=0B1020" alt="LinkedIn"/>
-</a>
+<br><br>
 
-<br/><br/>
-
-Code. Build. Improve. Repeat. 🚀
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:302B63,100:7C3AED&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="./footer.svg" width="100%" alt="Footer"/>
 
 </div>
