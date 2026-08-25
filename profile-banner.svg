@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050816"/>
+    <stop offset="52%" stop-color="#15102F"/>
+    <stop offset="100%" stop-color="#071B2B"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#C084FC"/>
+    <stop offset="52%" stop-color="#60A5FA"/>
+    <stop offset="100%" stop-color="#22D3EE"/>
+  </linearGradient>
+  <radialGradient id="glow1">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity=".38"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glow2">
+    <stop offset="0%" stop-color="#06B6D4" stop-opacity=".25"/>
+    <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+  </pattern>
+  <filter id="soft">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+</defs>
+
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="170" cy="80" r="180" fill="url(#glow1)" filter="url(#soft)"/>
+<circle cx="1080" cy="300" r="220" fill="url(#glow2)" filter="url(#soft)"/>
+
+<g opacity=".75">
+  <circle cx="85" cy="62" r="2" fill="#C084FC"/>
+  <circle cx="1020" cy="70" r="2" fill="#22D3EE"/>
+  <circle cx="1120" cy="150" r="1.7" fill="#60A5FA"/>
+  <circle cx="910" cy="315" r="1.5" fill="#C084FC"/>
+  <circle cx="300" cy="310" r="1.5" fill="#22D3EE"/>
+</g>
+
+<g transform="translate(70 72)">
+  <rect x="0" y="0" width="270" height="215" rx="18" fill="#08101E" stroke="#334155" stroke-opacity=".8"/>
+  <circle cx="22" cy="22" r="5" fill="#FB7185"/>
+  <circle cx="40" cy="22" r="5" fill="#FBBF24"/>
+  <circle cx="58" cy="22" r="5" fill="#34D399"/>
+  <text x="22" y="62" font-family="monospace" font-size="14" fill="#64748B">developer.js</text>
+  <text x="22" y="96" font-family="monospace" font-size="13" fill="#C084FC">const</text>
+  <text x="72" y="96" font-family="monospace" font-size="13" fill="#E5E7EB">developer = {</text>
+  <text x="34" y="122" font-family="monospace" font-size="12" fill="#22D3EE">frontend:</text>
+  <text x="112" y="122" font-family="monospace" font-size="12" fill="#E5E7EB">'React'</text>
+  <text x="34" y="146" font-family="monospace" font-size="12" fill="#22D3EE">backend:</text>
+  <text x="105" y="146" font-family="monospace" font-size="12" fill="#E5E7EB">'Java'</text>
+  <text x="34" y="170" font-family="monospace" font-size="12" fill="#22D3EE">focus:</text>
+  <text x="88" y="170" font-family="monospace" font-size="12" fill="#E5E7EB">'UX'</text>
+  <text x="22" y="196" font-family="monospace" font-size="13" fill="#C084FC">};</text>
+</g>
+
+<text x="390" y="92" font-family="Arial, sans-serif" font-size="22" font-weight="600" fill="#C084FC">Hi there, 👋</text>
+<text x="390" y="155" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#FFFFFF">I'm ABINAYA P.</text>
+
+<rect x="392" y="180" width="620" height="3" rx="2" fill="url(#neon)"/>
+<text x="392" y="222" font-family="Arial, sans-serif" font-size="20" letter-spacing="4" fill="#E5E7EB">SOFTWARE DEVELOPER</text>
+<text x="392" y="258" font-family="Arial, sans-serif" font-size="16" fill="#94A3B8">React  •  Java  •  Spring Boot  •  MySQL  •  REST APIs</text>
+<text x="392" y="300" font-family="Arial, sans-serif" font-size="15" fill="#C084FC">✦ Turning ideas into useful digital experiences.</text>
+
+<g transform="translate(1015 72)">
+  <rect width="120" height="215" rx="18" fill="#08101E" stroke="#334155" stroke-opacity=".8"/>
+  <text x="18" y="38" font-family="monospace" font-size="12" fill="#22D3EE">STATUS</text>
+  <circle cx="22" cy="62" r="6" fill="#34D399"/>
+  <text x="36" y="67" font-family="Arial" font-size="11" fill="#E5E7EB">BUILDING</text>
+  <text x="18" y="110" font-family="monospace" font-size="12" fill="#C084FC">STACK</text>
+  <text x="18" y="136" font-family="Arial" font-size="11" fill="#CBD5E1">React</text>
+  <text x="18" y="155" font-family="Arial" font-size="11" fill="#CBD5E1">Java</text>
+  <text x="18" y="174" font-family="Arial" font-size="11" fill="#CBD5E1">Spring</text>
+  <text x="18" y="193" font-family="Arial" font-size="11" fill="#CBD5E1">MySQL</text>
+</g>
+</svg>
